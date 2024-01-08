@@ -1,0 +1,70 @@
+{
+    "binId": "PHB0061",
+    "orderId": "ZH2B1FE",
+    "binTransfer": false,
+    "srcRCSLocation": "88881",
+    "destRCSLocation": "00439",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R2-01-02-01-A"
+}
+
+{
+    "binId": "PHB0016",
+    "orderId": "11TH",
+    "binTransfer": false,
+    "srcRCSLocation": "110",
+    "destRCSLocation": "120",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R1-01-01-03-A"
+}
+
+{
+    "binId": "PHB0022",
+    "orderId": "JH0D6BR",
+    "binTransfer": false,
+    "srcRCSLocation": "88881",
+    "destRCSLocation": "00437",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R2-01-01-03-A"
+}
+
+{
+    "binId": "PHB0030",
+    "orderId": "NFBRKZ3",
+    "binTransfer": false,
+    "srcRCSLocation": "88881",
+    "destRCSLocation": "00008",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R1-01-02-01-B"
+}
+
+
+{
+    "binId": "PHB0035",
+    "orderId": "ZRSHVNM",
+    "binTransfer": false,
+    "srcRCSLocation": "88881",
+    "destRCSLocation": "00007",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R1-01-02-01-A"
+}
+
+{
+    "binId": "PHB0060",
+    "orderId": "4IBD0W5",
+    "binTransfer": false,
+    "srcRCSLocation": "88881",
+    "destRCSLocation": "00440",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R2-01-02-01-B"
+}
+
+{
+    "binId": "PHB0061",
+    "orderId": "ZH2B1FE",
+    "binTransfer": false,
+    "srcRCSLocation": "88881",
+    "destRCSLocation": "00439",
+    "srcActualLocation": "ASRS-IN",
+    "destActualLocation": "R2-01-02-01-A"
+}
