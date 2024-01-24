@@ -1,0 +1,5 @@
+Create the virtual environment for run the backend "BTP" folder name is backend source
+
+First run the backend and then run the "Master211223websocket - Copy.py" file in the "FinalMaster" folder 
+
+change the IP of plc and backend in the "Master211223websocket - Copy.py"
