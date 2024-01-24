@@ -3,3 +3,12 @@ Create the virtual environment for run the backend "BTP" folder name is backend 
 First run the backend and then run the "Master211223websocket - Copy.py" file in the "FinalMaster" folder 
 
 change the IP of plc and backend in the "Master211223websocket - Copy.py"
+
+code reference in "Master211223websocket - Copy.py" this file
+/ **** 
+#Configure PLC Connection 
+ipAddress = '192.66.1.8'  //plc ip change
+
+ws_url = "ws://192.66.1.97:8080/ws/plcdata/boardcast/"    //backend ip change
+
+*****/
